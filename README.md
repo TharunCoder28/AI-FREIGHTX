@@ -1,4 +1,8 @@
+## Architecture Diagram
 
+<img width="1774" height="772" alt="image" src="https://github.com/user-attachments/assets/f3efdaa4-3617-4544-b8de-c1c5b1dba96a" /># FREIGHTX
+
+Autonomous AI Freight Exception Manager
 
 ## Problem Statement
 
