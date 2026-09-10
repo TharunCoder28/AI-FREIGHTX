@@ -43,42 +43,6 @@ Detect
 → Act
 → Verify
 
-## Recommended File Structure
-
-freightx/
-├── src/
-│   ├── components/
-│   │   ├── AdminDashboard.tsx
-│   │   ├── DriverDashboard.tsx
-│   │   ├── ExceptionPanel.tsx
-│   │   ├── DecisionEngine.tsx
-│   │   ├── ImpactAnalysis.tsx
-│   │   ├── ActionExecution.tsx
-│   │   └── NetworkView.tsx
-│   │
-│   ├── services/
-│   │   ├── gemini.ts
-│   │   ├── decisionEngine.ts
-│   │   └── simulation.ts
-│   │
-│   ├── data/
-│   │   ├── vehicles.ts
-│   │   ├── shipments.ts
-│   │   └── exceptions.ts
-│   │
-│   ├── types/
-│   │   └── freight.ts
-│   │
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-│
-├── .env
-├── .env.example
-├── .gitignore
-├── package.json
-└── README.md
-
 ## Features
 
 - Exception detection
