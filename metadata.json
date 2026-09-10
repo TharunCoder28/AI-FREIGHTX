@@ -1,0 +1,6 @@
+{
+  "name": "FREIGHTX — Autonomous Freight Exception Manager",
+  "description": "Enterprise freight control tower with autonomous what-if simulation, proactive exception handling, and decision execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
