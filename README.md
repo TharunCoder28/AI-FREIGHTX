@@ -1,4 +1,4 @@
-# FREIGHTX
+<img width="1774" height="772" alt="image" src="https://github.com/user-attachments/assets/f3efdaa4-3617-4544-b8de-c1c5b1dba96a" /># FREIGHTX
 
 Autonomous AI Freight Exception Manager
 
@@ -23,7 +23,9 @@ Wait vs Reroute vs Reassign vs Split
 
 ## Architecture
 
-[Architecture Diagram]
+        ₹<img width="1770" height="751" alt="image" src="https://github.com/user-attachments/assets/43e9b7ca-ee45-4c8d-9e5d-81740a3ca365" />
+
+
 
 ## Technology Stack
 
