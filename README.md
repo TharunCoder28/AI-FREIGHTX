@@ -73,7 +73,21 @@ overall operational impact.
 
 ## Setup
 
-...
+# Create project
+npm create vite@latest freightx -- --template react-ts
+cd freightx
+
+# Install dependencies
+npm install
+
+# UI + icons
+npm install lucide-react
+
+# Gemini API
+npm install @google/genai
+
+# Start development server
+npm run dev
 
 ## Team Members
 
