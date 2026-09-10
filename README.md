@@ -77,10 +77,14 @@ overall operational impact.
 
 ## Team Members
 
-Tharun R (RA2612052010031) - M.Tech DataScience (Team Lead)
-Vasanth S (RA2612052010024) - M.Tech DataScience
-Sushanth (RA2612052010024) - M.Tech DataScience
-Syed Reahan (RA2612052010020) - M.Tech DataScience
+## Team Members
+
+| Name | Registration Number | Program | Role |
+|---|---|---|---|
+| **Tharun R** | RA2612052010031 | M.Tech Data Science | Team Lead |
+| **Vasanth S** | RA2612052010024 | M.Tech Data Science | Team Member |
+| **Sushanth** | RA2612052010024 | M.Tech Data Science | Team Member |
+| **Syed Reahan** | RA2612052010020 | M.Tech Data Science | Team Member |
 
 ## Future Scope
 
