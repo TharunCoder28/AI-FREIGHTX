@@ -33,14 +33,8 @@ React + TypeScript
 Backend:
 Node.js / Python
 
-AI:
+API:
 Gemini API
-
-Database:
-...
-
-External Services:
-...
 
 ## Core Workflow
 
@@ -82,8 +76,6 @@ overall operational impact.
 ...
 
 ## Team Members
-
-...
 
 Tharun R (RA2612052010031) - M.Tech DataScience (Team Lead)
 Vasanth S (RA2612052010024) - M.Tech DataScience
